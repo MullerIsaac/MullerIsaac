@@ -1,8 +1,7 @@
 # Olá, meu nome é Isaac 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
-![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/isaacmulleroliveira)
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/isaacmulleroliveira/competition)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-oliveira-341a65234/)
+<!-- ![isaacmulleroliveira](https://road-to-kaggle-grandmaster.vercel.app/api/simple/isaacmulleroliveira)-->
 
 ## Sobre Mim.
 🌱 Sou graduando em ciência da computação pela Universidade Federal do Ceará e atualmente estou estudando para me tornar um cientista de dados.
